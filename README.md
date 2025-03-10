@@ -45,10 +45,12 @@ This project demonstrates a frontend setup for a Login and Signup system, with a
    cd vector-form
 
 
-2. Install Dependencies:
+2. **Install Dependencies**:
+   ```bash
    npm install
 
-3. Run the Development Server:
+3. **Run the Development Server**:
+   ```bash
    npm run dev
 
 
