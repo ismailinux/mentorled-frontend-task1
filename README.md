@@ -41,7 +41,7 @@ This project demonstrates a frontend setup for a Login and Signup system, with a
 
 1. **Clone the Repository**:
    ```bash
-   https://github.com/ismailinux/mentorled-frontend-task1.git
+   git clone https://github.com/ismailinux/mentorled-frontend-task1.git
    cd mentorled-frontend-task1
 
 
